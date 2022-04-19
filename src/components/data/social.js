@@ -1,0 +1,22 @@
+export const SocialData=[
+    {
+        platform:"LinkedIn",
+        link:"https://www.linkedin.com/in/abhishek1399/",
+        icon:require('../../assets/linkedin.png')
+    },
+    {
+        platform:"Twitter",
+        link:"https://twitter.com/blume0F",
+        icon:require('../../assets/twitter.png')
+    },
+    {
+        platform:"GitHub",
+        link:"https://github.com/blume0F",
+        icon:require('../../assets/github.png')
+    },
+    {
+        platform:"Leetcode",
+        link:"https://leetcode.com/abhishek_ar/",
+        icon:require('../../assets/leetcode.png')
+    },
+]
