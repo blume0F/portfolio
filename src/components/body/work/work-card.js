@@ -8,7 +8,10 @@ function WorkCard({item}) {
         <div className='work-info'>
             <label className='company-name'>{item.name}</label>
             <div className='work-dates'>
-                <label>{item.dateOfJoining}</label> - <label>{item.dateEnd}</label>
+                <label>{item.dateOfJoining}</label> - <label>{item.dateEnd}</label><br></br>
+            </div>
+            <div className='work-designation'>
+              <label>{item.designation}</label>
             </div>
             <div className='work-desc'>
                 <p>{item.description}</p>

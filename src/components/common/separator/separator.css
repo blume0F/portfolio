@@ -1,21 +1,7 @@
 .separator{
-    background-image: linear-gradient(
-        to right top,
-         #ff6200,
-          #f93538,
-          #9d0080,
-          #f93538,
-             #9d0080,
-              #922d93,
-               #8442a2,
-                #201336,
-                 #250862,
-                  #b5a8d9,
-                   #d9d3ed,
-                    #a91212
-    );
-height:6px;
-width:30%;
-border-radius:3px; 
-margin:16px 0px;
+    background-image: linear-gradient(to right, #232f3e, #464166, #824c7d, #c2537a, #f16960, #f36c63, #f56e65, #f77168, #ca6186, #8d5d8b, #585573, #3e444c);
+    height:6px;
+    width:30%;
+    border-radius:3px; 
+    margin:16px 0px;
 }

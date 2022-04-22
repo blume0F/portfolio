@@ -20,6 +20,11 @@ function Web() {
             </a>
         </div>
         <div className='web-option'>
+            <a href='#education'>
+                <i class="fi fi-sr-graduation-cap option-icon"></i>Education
+            </a>
+            </div>
+        <div className='web-option'>
             <a href='#contact'>
                 <i class="fi fi-sr-user option-icon"></i>Contact
             </a>

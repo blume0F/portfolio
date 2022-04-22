@@ -11,7 +11,7 @@ export const ProjectData=[
     {
         id:1,
         title:"REST Api for E-Commerce",
-        about:"This is a web api which can be used for powering a back-end for a ecommerce website. Users can sign-up, sign-in to create,update,delte,read their products. Implementation of image upload and JWT token for authorization and sessions.",
+        about:"Web API which can be used for powering a back-end for a E-Commerce website. Users can sign-up, sign-in to create, update, delete and read their products. Implementation of image upload and JWT token for authorization and sessions.",
         tags:["NodeJS", "Heroku", "MongoDB"],
         demo:"https://app-ecommerce-be.herokuapp.com/",
         github:'https://github.com/blume0F/ecommerce-backend-nodejs',

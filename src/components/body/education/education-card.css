@@ -1,17 +1,14 @@
-.work-card {
+.education-card {
     padding: 8px;
-    width: 100%;
+    width: 45%;
     margin-top: 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-direction: row-reverse;
-  }
-  .work-logo {
-    height: 120px;
+    flex-direction: row;
   }
 
-.work-designation{
+.education-designation{
   color: #ff6200;
   font-size:20px;
 }
@@ -20,15 +17,15 @@
     font-size:25px;
   }
 
-  .work-info {
+  .education-info {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
   }
-  .work-dates {
+  .education-dates {
     color: gray;
   }
-  .work-desc {
+  .education-desc {
     text-align: left;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -39,7 +36,7 @@
     max-width: 80%;
   }
   @media only screen and (max-width: 720px) {
-    .work-card {
+    .education-card {
       width: 100%;
     }
   }

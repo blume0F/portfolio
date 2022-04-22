@@ -5,10 +5,10 @@ export const WorkData=[
         dateOfJoining:"16-Aug-2021",
         dateEnd:"Present",
         companyLogo:"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1415386231/utypaslbyxwfuwhfdzxd.png",
-        description:"Design and development of single page web application using Angular, HTML, SCSS. Writing unit-test case using Jasmine & Karma. Cypress for end-to-end testing. Error-handling for various HTTP status codes and running of SPA in different environment - Test, Dev and production."
+        description:"Design and development of single page web application using Angular, HTML, SCSS. Writing unit-test case using Jasmine & Karma. Cypress for end-to-end testing. Error-handling for various HTTP status codes and running of SPA in different environment - Test, dev and production."
     },
     {
-        name:"ONGC",
+        name:"ONGC (Oil and Natural Gas Corporation)",
         designation:"Winter Intern",
         dateOfJoining:"25-Dec-2019",
         dateEnd:"22-Jan-2020",
