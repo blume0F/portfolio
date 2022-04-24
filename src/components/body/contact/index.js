@@ -14,7 +14,7 @@ function Contact() {
           <SocialContact></SocialContact>
         </div>
         <div className='download'>
-            <a download href='#'>
+            <a download href='https://drive.google.com/file/d/1mFZhvjZPBtBJWk07cQqT2j9sDyUXGbq7/view?usp=sharing' target="_blank">
               <i class='fi-rr-cloud-download download-icon'/>
               Download Resume
             </a>

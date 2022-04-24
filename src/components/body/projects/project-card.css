@@ -55,8 +55,14 @@
     padding:4px 8px;
     border-radius:4px;
     font-size:16px; 
-    margin-right:6px;
+    margin-right:8px;
     color:white;
+}
+
+.link-button:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.020); 
 }
 
 .link-button i{

@@ -9,7 +9,7 @@
 }
 
 .picture{
-    height:360px;
+    height:300px;
     border-radius: 50%;
 }
 
@@ -34,7 +34,7 @@
     }
 
     .picture{
-        height:280px;
+        height:220px;
     }
     
     .about-info{
@@ -44,4 +44,26 @@
     .info-name{
         font-size:26px;
     }
+
+    .download{
+        margin: auto;
+    }
+}
+
+.download {
+background-color: #ff6200;
+padding: 8px 16px;
+border-radius: 4px;
+width: 120px;
+margin-top:20px;
+}
+.download a {
+text-decoration: none;
+color: #fff;
+}
+
+.download:hover{
+    -ms-transform: scale(1.050); /* IE 9 */
+    -webkit-transform: scale(1.050); /* Safari 3-8 */
+    transform: scale(1.050); 
 }

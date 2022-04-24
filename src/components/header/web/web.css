@@ -26,3 +26,27 @@
 .web-option:last-child{
     margin-right:0px;
 }
+
+.link-hover {
+    display: inline-block;
+    position: relative;
+    color: #000000;
+  }
+
+.link-hover:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2.2px;
+    bottom: 1;
+    left: 0;
+    background-color: #000000;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+.link-hover:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
